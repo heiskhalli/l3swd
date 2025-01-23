@@ -1,0 +1,12 @@
+<!doctypehtml>
+<html>
+<head>
+<tittle>document</tittle>
+<style>
+<h1{"color:blue"}
+</style>
+</head>
+<body>
+<h1>welcome to css<h1>
+</body>
+</html>
